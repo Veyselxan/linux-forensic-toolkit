@@ -1,6 +1,5 @@
 # Linux Forensic Toolkit (LFT)
 
-![LFT Screenshot](screenshots/main_menu.png)
 
 A comprehensive command-line tool for Linux system monitoring, forensic analysis, and diagnostics with a user-friendly interface.
 
