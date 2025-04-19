@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="linux-forensic-toolkit",
-    version="1.0.0",
+    version="1.0.1",
     author="veyselxan",
     author_email="info@veyse-xan.com",
     description="Linux Forensic Analysis Toolkit",
