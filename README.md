@@ -56,7 +56,7 @@ pip install linux-forensic-toolkit
 ###Install from source
 ```
 bash
-git clone https://github.com/yourusername/linux-forensic-toolkit.git
+git clone https://github.com/Veyselxan/linux-forensic-toolkit.git
 cd linux-forensic-toolkit
 pip install .
 ```
