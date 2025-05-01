@@ -1,7 +1,7 @@
 # Linux Forensic Toolkit (LFT)
 [![Python Version](https://img.shields.io/badge/python-3.6+-blue)](https://python.org)
 [![PyPI](https://img.shields.io/badge/pip-1.0.0-blue)](https://pypi.org/project/linux-forensic-toolkit)
-
+[![PyPI Downloads](https://static.pepy.tech/badge/linux-forensic-toolkit)](https://pepy.tech/projects/linux-forensic-toolkit)
 
 A comprehensive command-line tool for Linux system monitoring, forensic analysis, and diagnostics with a user-friendly interface.
 
